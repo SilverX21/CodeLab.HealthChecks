@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="CodeLab.HealthChecks.Api/CodeLab.HealthChecks.Api.csproj" />
+  <Project Path="CodeLab.HealthChecks.AppHost/CodeLab.HealthChecks.AppHost.csproj" />
+  <Project Path="CodeLab.HealthChecks.ServiceDefaults/CodeLab.HealthChecks.ServiceDefaults.csproj" />
 </Solution>
